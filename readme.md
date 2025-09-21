@@ -12,9 +12,10 @@
 - kagglehub
 - opencv-python
 - ultralytics
+- nltk
 
 برای نصب همه نیازمندی‌ها می‌توانید از دستور زیر استفاده کنید:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn tensorflow keras tqdm opencv-python ultralytics
+pip install numpy pandas matplotlib nltk scikit-learn tensorflow keras tqdm opencv-python ultralytics
 ```
