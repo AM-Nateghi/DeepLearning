@@ -13,9 +13,11 @@
 - opencv-python
 - ultralytics
 - nltk
+- fastapi
+- uvicorn
 
 برای نصب همه نیازمندی‌ها می‌توانید از دستور زیر استفاده کنید:
 
 ```bash
-pip install numpy pandas matplotlib nltk scikit-learn tensorflow keras tqdm opencv-python ultralytics
+pip install numpy pandas matplotlib nltk scikit-learn tensorflow keras tqdm opencv-python ultralytics fastapi uvicorn
 ```
